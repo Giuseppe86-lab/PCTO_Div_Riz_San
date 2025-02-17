@@ -68,7 +68,7 @@ if add_sidebar == 'Analisi dati':
     Qui sotto trovate il link per vedere il report:
     """
     st.markdown(testo)
-    st.markdown("[Clicca qui per visitare il report](file:///C:/Users/Studente/Downloads/Copia%20di%20Report%20grafici%20PCTO.pdf)")
+    st.markdown("[Clicca qui per visitare il report](Report_grafici_PCTO.pdf)")
 
 if add_sidebar =='Previsione spesa totale':
     #calcolo spesa tolare
